@@ -1,0 +1,9 @@
+#myElement {
+  background: silver;
+  height: 300px;
+  width: 300px;
+  margin-left: 200px;
+  margin-top: 200px;
+  text-align: center;
+  font: 30px/300px Helvetica, Arial, sans-serif;
+}
